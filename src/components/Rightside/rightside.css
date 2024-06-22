@@ -1,0 +1,16 @@
+.ads{
+    text-align: center;
+    border: 5px solid crimson;
+    width: 260px;
+    height: 420px;
+    position: fixed;
+    right: 0%;
+    z-index: -1;
+}
+.ads1{
+    align-content: center;
+    width: 250px;
+    height: 120px;
+    background-color: #E0EFFF;
+    margin: 5px;
+}
