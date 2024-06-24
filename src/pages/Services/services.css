@@ -23,11 +23,11 @@
 }
 
 .css_Card_Sec{
-    min-width: 880px;
-    border-radius: 18px;
+    width: 880px;
+    border-radius: 24px !important;
     padding: 16px;
     gap: 18px;
-    background-color: #FAFAFA;
+    background-color: #FAFAFA !important;
     box-shadow: 4px 4px 10px 0px rgba(0,0,0,0.1);
 }
 

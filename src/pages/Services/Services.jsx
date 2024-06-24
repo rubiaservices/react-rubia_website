@@ -24,7 +24,7 @@ const imgObj1={
 
   return (
     <>
-    <main className='w-100 d-flex flex-column align-items-center justify-content-start gap-4'>
+    <main className='w-100 mx-3 d-flex flex-column align-items-center justify-content-start gap-4'>
        
        {/* Section first Start Here */}
        <section  className='css_Card_Sec w-100 rounded '>
