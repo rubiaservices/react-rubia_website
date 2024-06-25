@@ -29,7 +29,7 @@ const imgObj1={
        {/* Section first Start Here */}
        <section  className='css_Card_Sec w-100 rounded '>
             <section className='text-start '>
-                <h2  id="card-title">Book the Rental Drives</h2>
+                <h2  id="card-title">Rental Drivers Services</h2>
             </section>
             <section className='w-100 d-flex flex-column flex-md-row justify-content-center align-items-center gap-3'>
                 <div>
@@ -41,29 +41,31 @@ const imgObj1={
                         <p>
                             <span id='innerTitle'>Ride with the Best</span>
                             <br />
-                            At Rubia Services, our drivers have over three years of experience, ensuring you receive top-quality service every time.
+                            Looking for a reliable and professional rental driver service? Our top-notch team offers safe, efficient, and personalized driving solutions tailored to meet your specific needs. Whether you need a driver for a day, a week, or longer, our experienced professionals are here to provide exceptional service.
                         </p>
                        <div>
                        <span id='innerTitle'>Why Choose Us?</span>
                        <br />
                        <ul>
-                        <li>Experienced Drivers: Over three years of professional driving.</li>
-                        <li>Flexible Payments: Pay by the hour.</li>
-                        <li>Safety and Reliability: Your safety is our priority.</li>
+                        <li>Experienced Drivers: Our team comprises licensed and experienced drivers who prioritize your safety and comfort.</li>
+                        <li>24/7 Availability: We offer round-the-clock services to accommodate your schedule, ensuring you have a driver whenever you need one.</li>
+                        <li>Competitive Pricing: Enjoy premium driving services at affordable rates without any hidden charges.</li>
+                        <li>Personalized Service: We cater to your unique requirements, providing tailored driving solutions for any occasion.</li>
                         </ul>
                        </div>
 
                         <div>
-                        <span id='innerTitle'> Our Services:</span>
+                        <span id='innerTitle'>Our Services:</span>
                         <br />
                         <ul>
-                        <li>Corporate Transportation</li>
-                        <li>Airport Transfers</li>
-                        <li>Special Events</li>
-                        <li>Personal Chauffeur Services</li>
+                        <li>Personal Chauffeur: Hire a personal driver for special events, business meetings, or daily commutes.</li>
+                        <li>Airport Transfers: Enjoy hassle-free airport pickups and drop-offs with our punctual and reliable drivers.</li>
+                        <li>Corporate Services: Professional driving services for corporate executives, business travelers, and VIPs.</li>
+                        <li>Long-Distance Travel: Safe and comfortable long-distance travel options with experienced drivers.</li>
+                        <li>Event Transportation: Efficient transportation solutions for weddings, parties, and other events.</li>
                         </ul>
                         </div>
-                        <h6 className='css_bottom_heading6'>Book a driver today and experience the difference with RUBIA SERVICES!</h6>
+                        <h6 className='css_bottom_heading6'>Choose our rental driver services for a seamless, comfortable, and stress-free driving experience.</h6>
                     </div>
                 </div>
             </section>
@@ -101,13 +103,14 @@ experience.
                         </ul>
                        </div>
                         <div>
-                        <span id='innerTitle'> Our Services:</span>
+                        <span id='innerTitle'>Our Services:</span>
                         <br />
                         <ul>
-                        <li>Car Taxi: Comfortable and spacious for all travel needs.</li>
-                        <li>Auto Taxi: Economical for short distances.</li>
-                        <li>Bike Taxi: Fast for quick trips.</li>
-                        <li>Personal Chauffeur Services</li>
+                        <li>Personal Chauffeur: Hire a personal driver for special events, business meetings, or daily commutes.</li>
+                        <li>Airport Transfers: Enjoy hassle-free airport pickups and drop-offs with our punctual and reliable drivers.</li>
+                        <li>Corporate Services: Professional driving services for corporate executives, business travelers, and VIPs.</li>
+                        <li>Long-Distance Travel: Safe and comfortable long-distance travel options with experienced drivers.</li>
+                        <li>Event Transportation: Efficient transportation solutions for weddings, parties, and other events.</li>
                         </ul>
                         </div>
                         <h6 className='css_bottom_heading6'>Book a Taxi today and experience the difference with RUBIA SERVICES!</h6>
