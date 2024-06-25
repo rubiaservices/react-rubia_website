@@ -5,15 +5,15 @@ const navbar = () => {
   return (
     <>
     <nav id="navbar">
-      <div ><img src={Logo} alt="" class="logo"/></div>
-      {/* <div class="hambuger"></div> */}
+      <div ><img src={Logo} alt="" className="logo"/></div>
+      {/* <div className="hambuger"></div> */}
 
-      <div class="navbar-text">
-          <a class="navbar-links" href="index.html" >HOME</a>
-          <a class="navbar-links" href="services1.html" >SERVICES</a>
-          <a class="navbar-links" href="about.html">ABOUT</a>
-          <a class="navbar-links" href="contact.html" >CONTACT</a>
-          <a class="navbar-links" href="">BLOG</a>
+      <div className="navbar-text">
+          <a className="navbar-links" href="index.html" >HOME</a>
+          <a className="navbar-links" href="services1.html" >SERVICES</a>
+          <a className="navbar-links" href="about.html">ABOUT</a>
+          <a className="navbar-links" href="contact.html" >CONTACT</a>
+          <a className="navbar-links" href="">BLOG</a>
       </div>
     </nav>
     
