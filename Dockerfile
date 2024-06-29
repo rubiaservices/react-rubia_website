@@ -5,10 +5,10 @@ FROM node:alpine AS development
 ENV NODE_ENV development
 
 # Setting up the work directory
-WORKDIR /jmjithub
+WORKDIR /react-rubia_website
 
 # Installing dependencies
-COPY ./package*.json /jmjithub
+COPY ./package*.json /react-rubia_website
 
 RUN npm install
 
